@@ -1,0 +1,7 @@
+data
+dcgan
+dog-face-generation-competition-kid-metric-input
+input
+.ipynb_checkpoints/*
+training_checkpoints/*
+training_checkpoints/checkpoint
