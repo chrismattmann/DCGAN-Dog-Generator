@@ -5,3 +5,4 @@ input
 .ipynb_checkpoints/*
 training_checkpoints/*
 training_checkpoints/checkpoint
+*.tar.gz
