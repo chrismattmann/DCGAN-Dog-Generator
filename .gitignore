@@ -7,3 +7,5 @@ training_checkpoints/*
 training_checkpoints/checkpoint
 *.tar.gz
 *.gif
+*.zip
+output_images
